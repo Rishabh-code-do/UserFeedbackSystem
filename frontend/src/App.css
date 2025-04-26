@@ -1,5 +1,4 @@
 
-/* Global styles */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -7,7 +6,6 @@
   font-family: 'Arial', sans-serif;
 }
 
-/* Form Container */
 .formContainer {
   width: 100%;
   max-width: 500px;
@@ -21,12 +19,11 @@
   gap: 20px;
 }
 
-/* Apply to the container or body element */
 body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Ensure full screen height */
+  height: 100vh; 
   margin: 0;
   font-family: 'Arial', sans-serif;
 }
@@ -37,7 +34,6 @@ h1 {
   color: #333;
 }
 
-/* Input Fields */
 .input,
 .textarea,
 select {
@@ -57,13 +53,12 @@ select:focus {
   outline: none;
 }
 
-/* Textarea Styling */
 .textarea {
   height: 150px;
   resize: vertical;
 }
 
-/* Submit Button */
+
 .button {
   background-color: #007BFF;
   color: white;
@@ -79,7 +74,6 @@ select:focus {
   background-color: #0056b3;
 }
 
-/* Responsive Styling */
 @media (max-width: 600px) {
   .formContainer {
     padding: 15px;
