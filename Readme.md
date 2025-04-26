@@ -196,3 +196,5 @@ mongodb://localhost:27017
 # Future Improvements
 
 - Right now we are using search feature at frontend for particular paginated data. In future we can add this search feature at backend using Trie and Hashmap to search data at backend and get all data in paginated api.
+
+- Can add a feature to export feedback data for range of date and time in CSV format.
