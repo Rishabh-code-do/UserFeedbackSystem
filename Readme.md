@@ -24,8 +24,7 @@ Follow these steps to set up the project locally.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/Rishabh-code-do/UserFeedbackSystem.git
 ```
 
 # Backend Setup
